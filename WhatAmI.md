@@ -1,4 +1,0 @@
-Experimental
-
-
-This branch is meant to serve as our experimental working environment. Devs can merge their code into this branch first to see how their work interacts with everything else already integrated into the experiemental branch
